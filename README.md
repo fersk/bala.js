@@ -21,9 +21,10 @@ To get started with bala.js, include the bala.min.js script found in dist folder
   <!-- Other head elements -->
 
   <!-- Bala.js script -->
-  <script src="path/bala.min.js"></script>
+  <script src="[path]/bala.min.js"></script>
 </head>
 ```
+Replace path with the actual path to the bala.js script.
 
 ## Usage
 
@@ -42,8 +43,6 @@ bala.ready('myscript2', function() {
   // You can put any additional code you want to execute here.
 });
 ```
-
-Replace path-to-script-loader.js with the actual path to the bala.js script.
 
 ## Features
 Parallel Loading: Enhance your page performance as all scripts are loaded in parallel.
