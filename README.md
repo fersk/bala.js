@@ -54,14 +54,14 @@ Dependency Management: With our 'ready' function, you can not only check if a sc
 ## Limitations
 While bala.js is a simple tool for managing script loading, it doesn't provide advanced features found in full-featured module loaders or bundlers like RequireJS, SystemJS, or Webpack, such as:
 
-Module support
-Optimization and bundling
-Transpilation
-Source maps
-Hot Module Replacement (HMR)
-Code splitting and lazy loading
-Plugins and loaders
-Tree shaking
+* Module support
+* Optimization and bundling
+* Transpilation
+* Source maps
+* Hot Module Replacement (HMR)
+* Code splitting and lazy loading
+* Plugins and loaders
+* Tree shaking
 
 Please consider using a more sophisticated tool for substantial projects. bala.js is best suited for small projects or learning purposes.
 
