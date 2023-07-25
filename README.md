@@ -24,7 +24,7 @@ To get started with bala.js, include the bala.min.js script found in dist folder
   <script src="[path]/bala.min.js"></script>
 </head>
 ```
-Replace path with the actual path to the bala.js script.
+Replace path with the actual path to the bala.min.js script.
 
 ## Usage
 
