@@ -4,11 +4,13 @@ bala.js is a lightweight and intuitive JavaScript utility designed to load scrip
 
 ## Background
 
-Back in the day, we were regular users of head.js for its simplicity and ease of use. While other tools were complex and often loaded with features we didn't need, head.js stood out for being straightforward and doing one thing exceptionally well: loading scripts.
+Back in the day, I was a regular user of head.js for its simplicity and ease of use. While other tools were complex and often loaded with features we didn't need, head.js stood out for being straightforward and doing one thing exceptionally well: loading scripts.
 
 However, as time passed, head.js fell behind the curve due to a lack of support and updates. Moreover, certain features that were critical in the days of head.js have become obsolete with advances in web development standards and practices.
 
-As such, we decided to create bala.js, a tool that carries forward the spirit of simplicity from head.js but is updated to fit the requirements of modern web development. We've focused on features that matter most in today's context - parallel loading, order execution, and dependency management, and done away with the rest.
+As such, I've decided to create bala.js, a tool that carries forward the spirit of simplicity from head.js but is updated to fit the requirements of modern web development. I've focused on features that matter most in today's context - parallel loading, order execution, and dependency management, and done away with the rest.
+
+"Bala" means "bullet" in Portuguese, symbolizing the speed and efficiency of this script. Much like a bullet, setting up bala.js in your project is swift and gets the job done with precision.
 
 ## Getting Started
 
