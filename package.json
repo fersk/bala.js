@@ -4,7 +4,7 @@
     "description": "Bala.js: Load your JavaScript faster than a bullet. A lightweight, simple and efficient script loader.",
     "main": "src/bala.js",
     "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1",
+        "test": "jest",
         "build": "terser src/bala.js -o dist/bala.min.js"
     },
     "repository": {
@@ -26,6 +26,8 @@
     },
     "homepage": "https://github.com/fersk/bala.js#readme",
     "devDependencies": {
-        "terser": "^5.5.1"
+        "terser": "^5.5.1",
+        "jest": "^26.6.3",
+        "jsdom": "^16.4.0"
     }
 }
