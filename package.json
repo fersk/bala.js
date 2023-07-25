@@ -1,0 +1,31 @@
+{
+    "name": "bala.js",
+    "version": "1.0.0",
+    "description": "Bala.js: Load your JavaScript faster than a bullet. A lightweight, simple and efficient script loader.",
+    "main": "src/bala.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "terser src/bala.js -o dist/bala.min.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/fersk/bala.js.git"
+    },
+    "keywords": [
+        "javascript",
+        "loader",
+        "script-loader",
+        "bala.js",
+        "efficient",
+        "simple"
+    ],
+    "author": "Your Name <your.email@example.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/fersk/bala.js/issues"
+    },
+    "homepage": "https://github.com/fersk/bala.js#readme",
+    "devDependencies": {
+        "terser": "^5.5.1"
+    }
+}
