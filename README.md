@@ -62,6 +62,7 @@ Hot Module Replacement (HMR)
 Code splitting and lazy loading
 Plugins and loaders
 Tree shaking
+
 Please consider using a more sophisticated tool for substantial projects. bala.js is best suited for small projects or learning purposes.
 
 ## Contributing
