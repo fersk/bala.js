@@ -14,10 +14,15 @@ As such, I've decided to create bala.js, a tool that carries forward the spirit 
 
 ## Getting Started
 
-Include the `bala.js` script in your HTML file:
+To get started with bala.js, include the bala.min.js script found in dist folder in the head of your HTML file:
 
 ```html
-<script src="path-to-script-loader.js"></script>
+<head>
+  <!-- Other head elements -->
+
+  <!-- Bala.js script -->
+  <script src="path/bala.min.js"></script>
+</head>
 ```
 
 ## Usage
