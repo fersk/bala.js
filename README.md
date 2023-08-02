@@ -21,7 +21,7 @@ To get started with bala.js, include the bala.min.js script found in dist folder
   <!-- Other head elements -->
 
   <!-- Bala.js script -->
-  <script src="https://cdn.jsdelivr.net/gh/fersk/bala.js@1.1.0/dist/bala.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/fersk/bala.js@1.2.0/dist/bala.min.js"></script>
 </head>
 ```
 ## Usage
