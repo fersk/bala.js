@@ -1,9 +1,8 @@
-/*
- * bala.js v1.0.0
+/*!
+ * bala.js v1.2.0
  * https://github.com/fersk/bala.js
- *
- * Copyright (c) 2023 Nuno F.
- * Released under the Apache 2.0 license
+ * @author Nuno F.
+ * @license Apache 2.0 license
  */
 
 var bala = {
