@@ -61,7 +61,7 @@ While bala.js is a simple tool for managing script loading, it doesn't provide a
 * Plugins and loaders
 * Tree shaking
 
-Please consider using a more sophisticated tool if you have different needs. bala.js is a simple tool but used it in our large-scale projects serving millions of users every day.
+Please consider using a more sophisticated tool if you have different needs. bala.js is a simple tool but used in our large-scale projects serving millions of users every day.
 
 ## Contributing
 We welcome contributions from the community. If you wish to contribute, please fork the repository and submit a pull request.
