@@ -1,6 +1,6 @@
 # bala.js
 
-bala.js is a lightweight and intuitive JavaScript utility designed to load scripts into your web pages. Developed as a modern successor to the much loved but no longer supported head.js, bala.js retains the simplicity that developers have come to appreciate while doing away with features no longer needed in modern web development.
+bala.js is a lightweight and intuitive JavaScript utility designed to load scripts into your web pages. Inspired by head.js, bala.js retains the simplicity that developers have come to appreciate while doing away with features no longer needed in modern web development.
 
 ## Background
 
@@ -14,7 +14,7 @@ As such, I've decided to create bala.js, a tool that carries forward the spirit 
 
 ## Getting Started
 
-To get started with bala.js, include the bala.min.js script found in dist folder in the head of your HTML file:
+To get started with bala.js, include the bala.min.js script found in the dist folder in the head of your HTML file or our CDN one:
 
 ```html
 <head>
@@ -61,7 +61,7 @@ While bala.js is a simple tool for managing script loading, it doesn't provide a
 * Plugins and loaders
 * Tree shaking
 
-Please consider using a more sophisticated tool for substantial projects. bala.js is best suited for small projects or learning purposes.
+Please consider using a more sophisticated tool if you have different needs. bala.js is a simple tool but used it in our large-scale projects serving millions of users every day.
 
 ## Contributing
 We welcome contributions from the community. If you wish to contribute, please fork the repository and submit a pull request.
