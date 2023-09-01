@@ -5,7 +5,7 @@
     "main": "src/bala.js",
     "scripts": {
         "test": "jest",
-        "build": "terser src/bala.js --comments '/^!|©/' -o dist/bala.min.js"
+        "build": "terser src/bala.js -c -o dist/bala.min.js"
     },
     "repository": {
         "type": "git",
